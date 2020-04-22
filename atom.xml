@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wn2020.github.io</id>
     <title>wn</title>
-    <updated>2020-04-22T14:01:43.440Z</updated>
+    <updated>2020-04-22T14:07:03.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wn2020.github.io"/>
     <link rel="self" href="https://wn2020.github.io/atom.xml"/>
@@ -10,6 +10,14 @@
     <logo>https://wn2020.github.io/images/avatar.png</logo>
     <icon>https://wn2020.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, wn</rights>
+    <entry>
+        <title type="html"><![CDATA[<h1>Hello my follows !!!</h1>]]></title>
+        <id>https://wn2020.github.io/post/lessh1greaterhello-my-follows-lessh1greater/</id>
+        <link href="https://wn2020.github.io/post/lessh1greaterhello-my-follows-lessh1greater/">
+        </link>
+        <updated>2020-04-22T14:02:37.000Z</updated>
+        <content type="html"><![CDATA[<p>So, How looks like Gridea.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wn2020.github.io/post/hello-gridea/</id>
